@@ -39,6 +39,8 @@ git remote remove origin main
 
 git add .
 
+git commit -m ".."
+
 lalu git remote add origin https://github.com/JovandaTegarPamungkas/API-Manajemen-Film.git
 git push -u origin main
 
